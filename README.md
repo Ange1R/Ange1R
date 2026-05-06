@@ -1,6 +1,6 @@
-<h1>Hi, I'm Angel, an <a href="https://linkedin.com/in/angelreyes302">IT Professional 💻
+<h1>Hi, I'm Angel, an <a href="https://linkedin.com/in/angelreyes302">IAM Professional 💻
 
-<h2>🧑🏽‍💻 Information Technology Projects:</h2>
+<h2>🧑🏽‍💻 Identity Access Management Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Ange1R/osticket-prereqs)
