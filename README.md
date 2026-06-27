@@ -2,6 +2,9 @@
 
 <h2>🧑🏽‍💻 Identity Access Management Projects:</h2>
 
+- Identity & Access Management
+  - [Microsoft Entra ID Joiner-Mover-Leaver Lifecycle Lab](https://github.com/Ange1R/microsoft-entra-jml-lifecycle-lab)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Ange1R/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Ange1R/post-install-config)
